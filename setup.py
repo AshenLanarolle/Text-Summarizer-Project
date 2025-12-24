@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-Summarizer-Project"
 AUTHOR_USER_NAME = "AshenLanarolle"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "textSummarizer" #folder name inside src
 AUTHOR_EMAIL = "ashenkavishkao97@gmail.com"
 
 
